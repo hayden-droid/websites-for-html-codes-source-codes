@@ -2,6 +2,8 @@
 https://www.sourcecodester.com/html?page=1
 # 
 https://mobirise.com/html-templates/
+#
+https://www.freeprojectz.com/html-projects
 # Javascript
 https://www.sourcecodester.com/javascript
 # 
