@@ -31,5 +31,7 @@ https://webix.com/widgets/
 #
 https://www.booked.net/widgets/weather
 #
+https://widgets.amazon.co.uk/
+#
 
 
