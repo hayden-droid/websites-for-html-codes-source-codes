@@ -1,5 +1,7 @@
 # html
 https://www.sourcecodester.com/html?page=1
+# 
+https://mobirise.com/html-templates/
 # Javascript
 https://www.sourcecodester.com/javascript
 # 
